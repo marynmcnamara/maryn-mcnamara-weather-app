@@ -74,3 +74,7 @@ h4 {
   cursor: pointer;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
 }
+.source {
+  text-align: left;
+  font-size: 14px;
+}
